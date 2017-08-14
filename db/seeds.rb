@@ -1,0 +1,2 @@
+Song.create(title: "Shake it off", released: true, release_year: 2015, artist_name: "Taylor Swift", genre: "pop" )
+Song.create(title: "Despacito", released: true, release_year: 2017, artist_name: "Justin Bieber", genre: "pop" )
